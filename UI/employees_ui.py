@@ -10,8 +10,7 @@ class EmployeeMenu:
             print()
             self.user_input = self.print_menu()
             if self.user_input == "1":
-
-                print("add")
+                self.logic_wrapper.addEmployee()
             elif self.user_input == "2":
                 #logic_wrapper.changeEmployeeInfo()"
                 print("change")
@@ -34,8 +33,3 @@ class EmployeeMenu:
         print(f"[B] Back\n")
         return input("Choice: ")
         
-
-
-                #employee = Employee()
-                #employee.name = "Elmar"
-                #self.logic_wrapper.addEmployee(employee)
