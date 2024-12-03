@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "country": "Iceland",
+      "city": "Reykjavík",
+      "airport": "Keflavík International Airport (KEF)",
+      "phoneNumber": "(+354) 5551234",
+      "openingHours": "08:00 - 18:00",
+      "supervisor": 1404004412
+    },
+    {
+      "id": 2,
+      "country": "Faroe Islands",
+      "city": "Þórshöfn",
+      "airport": "Vágar Airport (FAE)",
+      "phoneNumber": "(+298) 312345",
+      "openingHours": "09:00 - 17:00",
+      "supervisor": ""
+    },
+    {
+      "id": 3,
+      "country": "Greenland",
+      "city": "Nuuk",
+      "airport": "Nuuk Airport (GOH)",
+      "phoneNumber": "+(299) 321234",
+      "openingHours": "10:00 - 16:00",
+      "supervisor": ""
+    },
+    {
+      "id": 4,
+      "country": "Greenland",
+      "city": "Kulusuk",
+      "airport": "Kulusuk Airport (KUS)",
+      "phoneNumber": "(+299) 991234",
+      "openingHours": "10:00 - 15:00",
+      "supervisor": ""
+    },
+    {
+      "id": 5,
+      "country": "Shetland Islands",
+      "city": "Tingwall",
+      "airport": "Tingwall Airport (LWK)",
+      "phoneNumber": "+(44) 1595-840123",
+      "openingHours": "08:30 - 17:30",
+      "supervisor": ""
+    },
+    {
+      "id": 6,
+      "country": "Svalbard",
+      "city": "Longyearbyen",
+      "airport": "Svalbard Airport (LYR)",
+      "phoneNumber": "+(47) 7902-1234",
+      "openingHours": "07:00 - 19:00",
+      "supervisor": ""
+    }
+  ]
+  

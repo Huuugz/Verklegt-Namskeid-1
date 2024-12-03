@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Sigur\u00f0ur S\u00e6mundsson",
+        "employeeID": 1404004412,
+        "address": "Heimilisfang 21",
+        "homePhoneNumber": 4991234,
+        "mobilePhoneNumber": 6962212,
+        "emailAddress": "siggiswag@gmail.com",
+        "locationID": 1,
+        "isSupervisor": false
+    },
+    {
+        "name": "Bubbi Birkir Baldsson",
+        "employeeID": 1505985523,
+        "address": "Fj\u00f6rugata 15",
+        "homePhoneNumber": 4995844,
+        "mobilePhoneNumber": 8986543,
+        "emailAddress": "bubbibalds@gmail.com",
+        "locationID": 1,
+        "isSupervisor": true
+    }
+]
